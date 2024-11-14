@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Konsultasi Pinjaman</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Selamat Datang di Konsultasi Pinjaman Online</h1>
+        <p>Dapatkan konsultasi cepat dan terpercaya!</p>
+    </header>
+    <section id="services">
+        <h2>Layanan Kami</h2>
+        <p>Kami menyediakan solusi pinjaman yang sesuai untuk Anda.</p>
+        <button onclick="alert('Hubungi Kami untuk Detail Layanan')">Hubungi Kami</button>
+    </section>
+    <footer>
+        <p>Kontak: info@pinjamanmu.com</p>
+    </footer>
+</body>
+</html>
